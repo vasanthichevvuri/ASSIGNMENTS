@@ -1,0 +1,4 @@
+#WAP to convert kilometer to centimeters
+kilometer=int(input("enter the length in kilometer:"))
+centimeter=100000*kilometer;
+print("the length in centimeter",around (centimeter,2))
