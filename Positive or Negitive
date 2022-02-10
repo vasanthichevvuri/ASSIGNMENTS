@@ -1,0 +1,9 @@
+# positive or negitive
+Number=float(input("input a number:"))
+ifnumber>=0:
+ ifnumber==0:
+   Print("it is zero")
+ else:
+   Print("number is positive number.")
+ else:
+   Print("number is negitive number.")
