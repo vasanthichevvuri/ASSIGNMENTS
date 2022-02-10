@@ -1,0 +1,19 @@
+Sno=int(input('enter student no:'))
+Same=(input('enter student name:'))
+Sgroup=input('enter student group:'))
+S1=int(input('enter English marks:'))
+S2=int(input('enter Telugu marks:'))
+S3=int(input('enter foundation course marks:'))
+S4=int(input('enter maths marks:'))
+S5=int(input('enter chemistry marks:'))
+S6=int(input('enter computer science marks:'))
+S1>=35
+S2>=35
+S3>=18
+S4>=28
+S5>=28
+S6>=28
+if S1>=35 and s2>=35 and s3>=18 and S4>=28 and S5>=28 and S6>=28:
+    Print('exam pass')
+else:
+    Print('exam fail')
