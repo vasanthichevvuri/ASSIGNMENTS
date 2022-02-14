@@ -1,0 +1,7 @@
+n=int(input("enter number:'))
+Sum=0
+While n>0:
+    dig=n%10
+    Sum=sum + dig
+     n=n//10
+Print("sum of digits in the given number are:",sum)
