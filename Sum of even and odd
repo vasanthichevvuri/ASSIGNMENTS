@@ -1,0 +1,10 @@
+n=int(input('enter n value:'))
+Even=0 
+Odd=0
+For number in range (1,n+1):
+   if(number%2==0):
+     Even =even + number
+else:
+    Odd =odd+ number
+Print('sum of odd ',odd)
+Print('sum of even ',even)
